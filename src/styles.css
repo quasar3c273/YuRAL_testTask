@@ -1,0 +1,15 @@
+body {
+  background-color: #f5f6f8;
+}
+
+main.container {
+  max-width: 1000px;
+}
+
+.card {
+  border-color: #e1e5eb;
+}
+
+th {
+  white-space: nowrap;
+}
